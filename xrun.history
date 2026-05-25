@@ -1,0 +1,1 @@
+s1(26Nov2025:01:33:24):  xrun -clean -coverage functional -covoverwrite -covtest SPRAM_coverage_cov -uvm -access +rwc +assert ./single_port_ram.sv ./top.sv -input probe.tcl 
